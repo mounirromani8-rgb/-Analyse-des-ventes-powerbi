@@ -1,5 +1,12 @@
 # 📊 BEA Sales Analysis Dashboard
 
+![GitHub](https://img.shields.io/github/license/issam-kebiri/PBI_Analyse_ventes_BEA?color=g&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/issam-kebiri/PBI_Analyse_ventes_BEA?color=red&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/issam-kebiri/PBI_Analyse_ventes_BEA?color=yellow&style=for-the-badge)
+
+![GitHub dev_language](https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/Dax-blue?style=flat&logo=redwoodjs&logoColor=white)
+
 ## 🧾 Description du projet
 
 Ce projet présente une **analyse complète des ventes de la société BEA** pour les années **2020 et 2021**, à partir de deux fichiers Excel :
@@ -27,12 +34,7 @@ Le tableau de bord Power BI met en avant les indicateurs clés suivants :
 * Par **pays**
 * Par **année** *(2020 ou 2021)*
 
-## 🛠️ Outils utilisés
 
-| Outil                                                                         | Description                                  |
-| :---------------------------------------------------------------------------- | :------------------------------------------- |
-| ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) **Power BI** | Création et visualisation du tableau de bord |
-| ![DAX](https://img.icons8.com/color/48/000000/dax.png) **DAX**                | Calculs et mesures personnalisées            |
 
 ---
 
